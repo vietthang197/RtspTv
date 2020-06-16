@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973719908115",
+    "firebase_url": "https://rtsp-5941a.firebaseio.com",
+    "project_id": "rtsp-5941a",
+    "storage_bucket": "rtsp-5941a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973719908115:android:6b4805a3b57c0f87dd34e6",
+        "android_client_info": {
+          "package_name": "com.teamosneo.rtsptv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973719908115-kap1qhm8d99a9amdhukfsf6j9m6dq8f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKuAWZCZGwbE0UoK9hhEvJ4do-4dLSHqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973719908115-kap1qhm8d99a9amdhukfsf6j9m6dq8f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
